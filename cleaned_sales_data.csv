@@ -1,0 +1,7 @@
+OrderID,Customer,City,Product,Quantity,Price,Total
+1,Amit,Pune,Laptop,1.0,50000.0,50000.0
+2,Sneha,Mumbai,Mobile,2.0,20000.0,40000.0
+3,Rahul,Delhi,Headphones,3.0,2000.0,6000.0
+4,Amit,Pune,Mobile,1.0,20000.0,20000.0
+5,Priya,Pune,Laptop,1.0,50000.0,50000.0
+6,Sneha,Mumbai,Headphones,2.0,2000.0,4000.0
